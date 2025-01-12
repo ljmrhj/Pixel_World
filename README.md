@@ -13,6 +13,8 @@ zh_CN China
 
 QQ频道号：pd71412000
 
+[Server Update](https://github.com/ljmrhj/Pixel_World/tree/main/Server%20Update)
+
 # 服务器规则：
  
  不准开挂，抄家。
@@ -32,3 +34,34 @@ QQ频道号：pd71412000
     /hat 把你主手上的东西放在头上
     /changepassword <旧密码> <新密码> < 重复新密码> 更改密码
 
+# plugins
+
+Login-1.4.5
+
+EssentialsX-2.20.1
+
+Dominion-3.2.8 beta
+
+ISeeYou-1.3.3
+
+LuckPerms-Bukkit-5.4.152
+
+MinuteMessage-1.0.2
+
+Multiverse-Core-4.3.1
+
+NoCheatPlus-3.16.0-RC-sMD5NET-b1134
+
+PlaceholderAPI-2.11.6
+
+ProtocolLib-5.3.0
+
+SkinsRestorer-15.5.1
+
+TAB v5.0.3
+
+Themis_0.17.3
+
+grimac-2.3.68
+
+worldedit-bukkit-7.3.9
