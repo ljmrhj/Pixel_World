@@ -13,10 +13,10 @@ zh_CN China
 版本:1.21.3
 
  QQ群：
+[点击进入](https://qm.qq.com/q/SRQkQYZ2M4)
 
- [点击进入](https://qm.qq.com/q/SRQkQYZ2M4)
-
-QQ频道号：pd71412000
+QQ频道号：
+[点击进入](https://pd.qq.com/s/73ka8g04)
 
 # 服务器规则：
  
