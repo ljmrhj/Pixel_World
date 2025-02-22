@@ -10,7 +10,7 @@ zh_CN China
 
  服务器为JAVA(leaves核心)服务器
 
-版本:1.21.3
+版本:1.21.4
 
  QQ群：
 [点击进入](https://qm.qq.com/q/SRQkQYZ2M4)
