@@ -12,7 +12,9 @@ zh_CN China
 
 版本:1.21.3
 
- QQ群：946304091
+ QQ群：
+
+ [点击进入](https://qm.qq.com/q/SRQkQYZ2M4)
 
 QQ频道号：pd71412000
 
