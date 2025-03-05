@@ -38,28 +38,3 @@ QQ频道号：
     /changepassword <旧密码> <新密码> < 重复新密码> 更改密码
     /afk 挂机
     /dom tp spawn 传送到主城
-# plugins
-
-Login-1.4.5
-
-EssentialsX-2.20.1
-
-Dominion-3.2.8beta
-
-LuckPerms-Bukkit-5.4.152
-
-MinuteMessage-1.0.2
-
-Multiverse-Core-4.3.1
-
-PlaceholderAPI-2.11.6
-
-ProtocolLib-5.3.0
-
-SkinsRestorer-15.5.1
-
-TAB-5.0.3
-
-Themis_0.17.3
-
-worldedit-bukkit-7.3.9
