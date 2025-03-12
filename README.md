@@ -17,7 +17,7 @@ QQ频道号：
 [点击进入](https://pd.qq.com/s/73ka8g04)
 
 Bilibili:
-[点击进入](https://space.bilibili.com/3546860025285487?spm_id_from=333.337.0.0)
+[点击进入](https://b23.tv/nXYIlBV)
 
 
 
