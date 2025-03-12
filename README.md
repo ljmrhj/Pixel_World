@@ -18,6 +18,11 @@ zh_CN China
 QQ频道号：
 [点击进入](https://pd.qq.com/s/73ka8g04)
 
+Bilibili:
+[点击进入](https://space.bilibili.com/3546860025285487?spm_id_from=333.337.0.0)
+
+
+
 # 服务器规则：
  
  不准开挂，抄家。
