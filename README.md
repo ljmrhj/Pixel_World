@@ -2,9 +2,7 @@ Pixel World-Minecraft Server
 
 [![Update](https://img.shields.io/badge/Server-Update-70f3ff?)](https://github.com/ljmrhj/Pixel_World/tree/main/Server%20Update)
 
-![无标题7](https://github.com/user-attachments/assets/061d6893-6368-4546-8563-3ab6cd883678)
-
-zh_CN China 
+![1](https://github.com/user-attachments/assets/44e61358-d338-48e4-a3db-0006aff1751d)
 
 # 基本信息:
 
