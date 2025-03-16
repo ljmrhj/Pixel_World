@@ -40,4 +40,6 @@ Bilibili:
     /hat 把你主手上的东西放在头上
     /changepassword <旧密码> <新密码> < 重复新密码> 更改密码
     /afk 挂机
-    /dom tp spawn 传送到主城
+    /dom tp spawnW1 传送到主城1
+    /dom tp spawnW2 传送到主城2
+    /dom tp spawnW3 传送到主城3
