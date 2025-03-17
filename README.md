@@ -19,7 +19,10 @@ QQ频道号：
 Bilibili:
 [点击进入](https://b23.tv/nXYIlBV)
 
+如果您想赞助我，您可以点击下面的链接进行赞助！
 
+爱发电:
+[点击进入](https://afdian.com/a/pixelworldserver)
 
 # 服务器规则：
  
