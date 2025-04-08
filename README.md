@@ -10,6 +10,8 @@ Pixel World-Minecraft Server
 
 版本:1.21.4
 
+ [Server Update](https://github.com/ljmrhj/Pixel_World/tree/main/Server%20Update)
+ 
  QQ群：
 [点击进入](https://qm.qq.com/q/SRQkQYZ2M4)
 
@@ -19,10 +21,10 @@ QQ频道号：
 Bilibili:
 [点击进入](https://b23.tv/nXYIlBV)
 
-如果您想赞助我，您可以点击下面的链接进行赞助！
 
 爱发电:
-[点击进入](https://afdian.com/a/pixelworldserver)
+
+不开放
 
 # 服务器规则：
  
