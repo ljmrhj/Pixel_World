@@ -13,18 +13,16 @@ Pixel World-Minecraft Server
  QQ群：
 [点击进入](https://qm.qq.com/q/SRQkQYZ2M4)
 
-QQ频道号：
-[点击进入](https://pd.qq.com/s/73ka8g04)
-
 Bilibili:
 [点击进入](https://b23.tv/nXYIlBV)
 
 site:
 dev-pixelworld.great-site.net
 
-爱发电:
+爱发电:不开放
 
-不开放
+反馈邮箱:
+h2019ljmrhj@outlook.com
 
 # 服务器规则：
  
