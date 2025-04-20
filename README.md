@@ -22,7 +22,7 @@ dev-pixelworld.great-site.net
 爱发电:不开放
 
 反馈邮箱:
-h2019ljmrhj@outlook.com
+h15994320728@outlook.com
 
 # 服务器规则：
  
