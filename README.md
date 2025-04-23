@@ -17,9 +17,7 @@ Bilibili:
 [点击进入](https://b23.tv/nXYIlBV)
 
 site:
-dev-pixelworld.great-site.net
-
-爱发电:不开放
+https://dev-pixelworld.great-site.net
 
 反馈邮箱:
 h15994320728@outlook.com
